@@ -1,0 +1,27 @@
+{"time":"2024-11-15T16:37:59.439899-05:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-15T16:37:59.439899-05:00","level":"INFO","msg":"created symlink","path":"d:\\users\\dpa13\\projects\\my_projects\\gnns\\official_examples\\wandb\\run-20241115_163759-plltnkta\\logs\\debug-core.log"}
+{"time":"2024-11-15T16:38:00.8669594-05:00","level":"INFO","msg":"created new stream","id":"plltnkta"}
+{"time":"2024-11-15T16:38:00.8669594-05:00","level":"INFO","msg":"stream: started","id":"plltnkta"}
+{"time":"2024-11-15T16:38:00.8669594-05:00","level":"INFO","msg":"sender: started","stream_id":"plltnkta"}
+{"time":"2024-11-15T16:38:00.8669594-05:00","level":"INFO","msg":"handler: started","stream_id":"plltnkta"}
+{"time":"2024-11-15T16:38:00.8669594-05:00","level":"INFO","msg":"writer: Do: started","stream_id":"plltnkta"}
+{"time":"2024-11-15T16:38:01.1089636-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-15T16:38:01.2715004-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-15T16:39:45.4885565-05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-15T16:39:45.4928103-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-15T16:39:47.9804987-05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-15T16:39:47.9854501-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-15T16:39:49.3003823-05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-15T16:39:49.302895-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-15T16:40:00.3192292-05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-15T16:40:00.3482831-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-15T16:40:01.2171074-05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-15T16:40:01.2356467-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-15T16:40:01.2365399-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-15T16:40:02.2451831-05:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.838407}],"total_operations":1}}
+{"time":"2024-11-15T16:40:02.6211008-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-15T16:40:03.7713164-05:00","level":"INFO","msg":"stream: closing","id":"plltnkta"}
+{"time":"2024-11-15T16:40:03.7713164-05:00","level":"INFO","msg":"handler: closed","stream_id":"plltnkta"}
+{"time":"2024-11-15T16:40:03.7713164-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"plltnkta"}
+{"time":"2024-11-15T16:40:03.7713164-05:00","level":"INFO","msg":"sender: closed","stream_id":"plltnkta"}
+{"time":"2024-11-15T16:40:03.7724896-05:00","level":"INFO","msg":"stream: closed","id":"plltnkta"}
