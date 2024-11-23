@@ -1,2 +1,3 @@
 pytorch_geometric/datasets/
 pytorch_geometric/salary.ipynb
+pytorch_geometric/official_examples/wandb
